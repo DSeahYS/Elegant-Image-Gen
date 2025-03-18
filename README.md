@@ -22,3 +22,7 @@ A Flask-based web application that creates beautiful algorithmic art with custom
 - Matplotlib for visualization
 - HTML5/CSS3
 - JavaScript for interactive features
+
+## Sample Website
+<img width="636" alt="image" src="https://github.com/user-attachments/assets/34f091db-f790-49f1-9998-3939ef274650" />
+
